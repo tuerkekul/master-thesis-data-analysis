@@ -3,3 +3,10 @@
 *.env
 
 
+# Local envs & outputs
+.venv/
+data/
+output/
+fresh_env/
+# Jupyter
+.ipynb_checkpoints/
